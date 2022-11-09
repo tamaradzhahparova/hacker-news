@@ -1,0 +1,33 @@
+.CommentsList {}
+
+.comment {
+    margin-bottom: 15px;
+    padding-left: 20px;
+}
+
+.comment span {
+    font-size: 13px;
+    color: gray;
+}
+
+.metaData {
+    margin: 0 0 8px 0;
+    font-size: 13px;
+}
+
+.metaData svg {
+    margin-right: 5px;
+}
+
+.text {
+    margin: 0 0 10px 0;
+    padding-left: 20px;
+    color: black;
+    font-size: 15px;
+}
+
+.button {
+    margin: 0 15px 10px 20px;
+    font-size: 10px;
+    cursor: pointer;
+}

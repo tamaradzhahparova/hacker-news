@@ -1,0 +1,19 @@
+.Post {}
+
+.buttons {
+    margin-bottom: 30px;
+}
+
+.button {
+    margin-right: 10px;
+    border: none;
+    outline: none;
+    color: black;
+    background-color: transparent;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.button:hover {
+    color: #ff6600;
+}

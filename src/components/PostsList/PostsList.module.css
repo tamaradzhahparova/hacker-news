@@ -1,0 +1,9 @@
+.CardsList {
+    padding: 20px;
+    background-color: rgba(224, 216, 216, 0.55);
+}
+
+.preloader {
+    width: 100%;
+    text-align: center;
+}

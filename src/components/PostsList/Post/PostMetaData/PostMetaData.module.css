@@ -1,0 +1,12 @@
+.CardMetaData {
+    display: flex;
+}
+
+p {
+    font-size: 15px;
+    color: #504d4d;
+}
+
+p:not(:last-child) {
+    margin-right: 15px;
+}
