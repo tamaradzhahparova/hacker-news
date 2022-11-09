@@ -17,7 +17,6 @@ const Post: FC = () => {
   const dispatch = useAppDispatch()
   const comments = useAppSelector(state => state.postsSlice.comments.comments)
 
-  console.log('rerender post component')
 
   useEffect(() => {
     postsApi.getItem(postId).then(res => {
